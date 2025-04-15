@@ -80,7 +80,9 @@ nim c -f --os:windows --cpu:amd64 -d:binary nimjacker.nim
 
 ## Example in Action
 
-![Demo of Waiting Thread Hijacking](docs/poc.gif)
+<p align="center">
+  <img src="docs/poc.gif" alt="Demo of Waiting Thread Hijacking">
+</p>
 
 ## Developer
 

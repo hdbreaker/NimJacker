@@ -80,7 +80,9 @@ Se recomienda utilizar [x64dbg](https://x64dbg.com) para analizar el comportamie
 
 ## Ejemplo de funcionamiento
 
-![Demostración de Waiting Thread Hijacking](docs/poc.gif)
+<p align="center">
+  <img src="docs/poc.gif" alt="Demostración de Waiting Thread Hijacking">
+</p>
 
 ## Desarrollador
 
