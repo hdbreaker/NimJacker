@@ -52,6 +52,7 @@ proc main() =
   
   if wth_injection.executeInjection(pid):
     echo "Injection successful!\n"
+    debug.debugPause("[DEBUG] Process is suspended for further analysis...")
   else:
     echo "Injection failed... :(\n"
 
