@@ -86,7 +86,7 @@ nim c -f --os:windows --cpu:amd64 -d:binary nimjacker.nim
 
 ## Developer
 
-Developed by Alejandro Parodi ([@SecSignal](https://twitter.com/SecSignal))
+Developed by Alejandro Parodi / hdbreaker ([@SecSignal](https://twitter.com/SecSignal))
 
 ## Credits
 

@@ -86,7 +86,7 @@ Se recomienda utilizar [x64dbg](https://x64dbg.com) para analizar el comportamie
 
 ## Desarrollador
 
-Desarrollado por Alejandro Parodi ([@SecSignal](https://twitter.com/SecSignal))
+Desarrollado por Alejandro Parodi / hdbreaker ([@SecSignal](https://twitter.com/SecSignal))
 
 ## Créditos
 
