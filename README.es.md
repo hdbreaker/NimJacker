@@ -80,7 +80,7 @@ Se recomienda utilizar [x64dbg](https://x64dbg.com) para analizar el comportamie
 
 ## Ejemplo de funcionamiento
 
-<video src="docs/poc.mp4" width="640" height="360" controls></video>
+![Demostración de Waiting Thread Hijacking](docs/poc.gif)
 
 ## Desarrollador
 
